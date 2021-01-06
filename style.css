@@ -172,6 +172,10 @@ p{
     padding-bottom: 200px;
 }
 
+.inq-height{
+    height: 300px;
+}
+
 .enquiry-box{
     background-image: url("images/Group_33094_1.png");
     background-size: cover;
@@ -223,6 +227,8 @@ p{
     font-family: 'Titillium Web', sans-serif;
     font-size: 45px;
     text-align: center;
+    
+    
 }
 
 .last-images{
